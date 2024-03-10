@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553530326797",
+    "project_id": "todo-list-e9c24",
+    "storage_bucket": "todo-list-e9c24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553530326797:android:24eee762165e4b2b1c3a44",
+        "android_client_info": {
+          "package_name": "com.wisal.todo_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3YexyXPrMUzRsR6bIRdd5yw-To46r350"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
